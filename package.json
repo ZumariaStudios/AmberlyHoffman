@@ -17,13 +17,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "version": "node tools/writeVersionTxt.js"
   },
-  "author": "Mile Two <www.miletwo.us>",
+  "author": "Amberly Hoffman",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/mile-two/www.curostudio.com.git"
+    "url": "git+https://github.com/AmberlyHoffman606/AmberlyHoffman.git"
   },
   "bugs": {
-    "url": "https://gitlab.com/mile-two/www.curostudio.com/issues"
+    "url": " "
   },
   "license": "MIT",
   "devDependencies": {
@@ -61,5 +61,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "dependency-check": "^3.1.0"
   }
 }
